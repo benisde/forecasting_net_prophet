@@ -3,7 +3,7 @@ Analysing the financial and user data of an e-commerce company in Latin America 
 
 <br> </br>
 
-Google Search traffic data just for the month of May 2020 is as follows:
+Google Search traffic data just for the month of May 2020 is as follows:<br>
 ![A screenshot of the result.](Images/Image01.png)
 
 <br> </br>
@@ -13,12 +13,12 @@ Google Search traffic data just for the month of May 2020 is as follows:
 
 <br> </br>
 
-Average traffic by the day of the week is as follows:
+Average traffic by the day of the week is as follows:<br>
 ![A screenshot of the result.](Images/Image02.png)
 
 <br> </br>
 
-Search traffic as a heatmap for each day of the week:
+Search traffic as a heatmap for each day of the week:<br>
 ![A screenshot of the result.](Images/Image03.png)
 
 <br></br>
@@ -29,7 +29,7 @@ Search traffic as a heatmap for each day of the week:
 
 <br> </br>
 
-Search data by the week of the year is as follows:
+Search data by the week of the year is as follows:<br>
 ![A screenshot of the result.](Images/Image04.png)
 
 <br> </br>
@@ -40,12 +40,12 @@ Search data by the week of the year is as follows:
 
 <br> </br>
 
-Stock Price data:
+Stock Price data: <br>
 ![A screenshot of the result.](Images/Image05.png)
 
 <br> </br>
 
-Slice of data to just the first half of 2020:
+Slice of data to just the first half of 2020: <br>
 ![A screenshot of the result.](Images/Image06.png)
 
 <br> </br>
@@ -56,7 +56,7 @@ Slice of data to just the first half of 2020:
 
 <br> </br>
 
-Stock Volatility:
+Stock Volatility: <br>
 ![A screenshot of the result.](Images/Image07.png)
 <b> Note: </b> Note how volatility spiked, and tended to stay high, during the first half of 2020. This is a common characteristic of volatility in stock returns worldwide: high volatility days tend to be followed by yet more high volatility days.
 
@@ -68,7 +68,7 @@ Stock Volatility:
 
 <br> </br>
 
-Forecast for stock price :
+Forecast for stock price: <br>
 ![A screenshot of the result.](Images/Image08.png)
 
 <br> </br>
@@ -79,13 +79,13 @@ Forecast for stock price :
 
 <br> </br>
 
-Model for stock price forecast :
+Model for stock price forecast: <br>
 ![A screenshot of the result.](Images/Image09.png)
 
 
 <br> </br>
 
-Time series components of the model for the stock price forecast:
+Time series components of the model for the stock price forecast: <br>
 ![A screenshot of the result.](Images/Image10.png)
 
 <br> </br>
@@ -108,12 +108,12 @@ Time series components of the model for the stock price forecast:
 
 <br> </br>
 
-Historical Sales Revenue :
+Historical Sales Revenue: <br>
 ![A screenshot of the result.](Images/Image11.png)
 
 <br> </br>
 
-Time series components of the model for the daily sales revenue forecast:
+Time series components of the model for the daily sales revenue forecast: <br>
 ![A screenshot of the result.](Images/Image12.png)
 
 <br> </br>
@@ -124,7 +124,7 @@ Time series components of the model for the daily sales revenue forecast:
 
 <br> </br>
 
-Forecast for daily sales revenue:
+Forecast for daily sales revenue: <br>
 ![A screenshot of the result.](Images/Image13.png)
 
 <br> </br>
