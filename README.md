@@ -8,13 +8,15 @@ Google Search traffic data just for the month of May 2020 is as follows:<br>
 
 <br> </br>
 
+The total search traffic for May 2020 is 38181
+
 The monthly median search traffic across all months is 35712.5
 
 <br></br>
 
 <b> Question: </b> Did the Google search traffic increase during the month that MercadoLibre released its financial results?
 
-<b> Answer: </b> Yes during the month of May 2020, when MercadoLibre released its quarterly financial results, the Google search traffic did increase to 51.318548 compared to the overall monthly median value of the search traffic of 48.128739 .
+<b> Answer: </b> Yes during the month of May 2020, when MercadoLibre released its quarterly financial results, the Google search traffic did increase to 54 compared to the overall monthly median value of the search traffic of 51 .
 
 <br> </br>
 
@@ -137,4 +139,4 @@ Forecast for daily sales revenue: <br>
 <b> Analysis Report: </b></br> 
 Based on the forecast information generated above, the sales forecast for the finance division, with the expected total sales next quarter and the best and worst case scenarios. This will help to better help the finance team plan. 
 
-<b> Answer: </b> Total sales revenue in the next quater is most likely to be 969.607769. In the best case sales in next quarter may go as high up to 1050.318316 and worst case would be 887.452342
+<b> Answer: </b> Total sales revenue in the next quater is most likely to be 969.607769. In the best case sales in next quarter may go as high up to 1050.904121 and worst case would be 887.228716
